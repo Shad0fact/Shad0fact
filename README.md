@@ -25,6 +25,3 @@ I am a student (Field: Computer Science and Engineering)
 </div>
 
 ---
-
-### :fire: My Stats :
-![Leetcode Stats](https://leetcard.jacoblin.cool/Shadowfact?theme=light,unicorn)
